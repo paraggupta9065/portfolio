@@ -1,7 +1,7 @@
 # paraggupta
 
-This Is portfolio Website Made Using Flutter Web
-
+This Is Portfolio Website Made Using Flutter Web
+Feel Free To Contribute In This Design
 
 ![alt text](https://user-images.githubusercontent.com/63359769/97781718-47a4a300-1bb3-11eb-8685-31866f3f0e5e.png)
 ![alt text](https://user-images.githubusercontent.com/63359769/97781720-4a06fd00-1bb3-11eb-9157-f2cad4c2b715.png)
